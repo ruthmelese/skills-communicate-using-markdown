@@ -5,3 +5,14 @@
 
 
 First I stated my name. Then, I mentioned how it's almost my birthday. Lastly, I concluded by saying bye. The end.
+
+
+
+
+
+
+![image of the beach](https://github.com/user-attachments/assets/1a466b3a-e10e-492b-94d3-b1c6de34972c)
+
+
+
+
