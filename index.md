@@ -3,11 +3,7 @@
 ##### Okay goodbye now <h6>
 
 
-
 First I stated my name. Then, I mentioned how it's almost my birthday. Lastly, I concluded by saying bye. The end.
-
-
-
 
 
 
@@ -15,4 +11,8 @@ First I stated my name. Then, I mentioned how it's almost my birthday. Lastly, I
 
 
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
